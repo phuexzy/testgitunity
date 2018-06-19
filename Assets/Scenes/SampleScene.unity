@@ -305,5 +305,5 @@ MonoBehaviour:
       Data: 
   testSerializer1: 
   testMydata:
-    testStr: 
-    testFloat: 0
+    testStr: test 1 2 3
+    testFloat: 1.23
